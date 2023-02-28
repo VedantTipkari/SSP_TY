@@ -1,3 +1,4 @@
+//THIS IS JSP
 <%@page import = "Project.ConnectionProvider" %>
 <%@page import = "java.sql.*" %>
 <%
